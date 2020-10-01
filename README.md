@@ -1,4 +1,4 @@
-### Hello I am Baian Khanjar
+### Hello, I am Baian Khanjar!
 
 
 - 🔭 I’m currently working on https://louisville.edu/medicine/departments/medicine/divisions/infectiousdiseases and https://www.ceridlouisville.org/ websites. 
