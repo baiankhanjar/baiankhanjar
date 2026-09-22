@@ -1,6 +1,6 @@
 # Hi, I'm Baian Khanjar 👋
 
-Data Analyst with 6+ years of experience in healthcare and academic research, with a focus on clinical data transformation, automation, data quality, and analytics.
+Data Analyst with 6+ years of experience in data transformation, automation, data quality, and analytics.
 
 I am expanding my work into **Analytics Engineering**, building modern data pipelines and analytical models using **SQL, dbt Core, BigQuery, Python, and Power BI**.
 
